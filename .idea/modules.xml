@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/matris.iml" filepath="$PROJECT_DIR$/.idea/matris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matrises/matrises.iml" filepath="$PROJECT_DIR$/matrises/matrises.iml" />
+    </modules>
+  </component>
+</project>
