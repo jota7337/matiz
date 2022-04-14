@@ -23,7 +23,7 @@ public class controller {
             int a =i+1;
             System.out.println("Caso " +a);
 
-            l.crear(v.leerDatoEntero("La matriz"));
+            System.out.println(l.regiones( l.crear(v.leerDatoEntero("La matriz"))));
             System.out.println("\t");
         }
 
